@@ -141,22 +141,22 @@ Zhu, Guofeng; Huang, Enwei (2025), “Quantifying the Role of Winter Freezing in
 
 **Статические графики (PNG):**
 
-* ![acf_pacf_delta_depth_m.png](visualizations\acf_pacf_delta_depth_m.png)
-* ![boxplot_by_month.png](visualizations\boxplot_by_month.png)
-* ![climate_data_nebraska.png](visualizations\climate_data_nebraska.png)
-* ![correlation_heatmap.png](visualizations\correlation_heatmap.png)
-* ![correlation_heatmap_all.png](visualizations\correlation_heatmap_all.png)
-* ![correlation_heatmap_final.png](visualizations\correlation_heatmap_final.png)
-* ![distribution_analysis.png](visualizations\distribution_analysis.png)
-* ![freeze_depth_nebraska.png](visualizations\freeze_depth_nebraska.png)
-* ![groundwater_level_nebraska.png](visualizations\groundwater_level_nebraska.png)
-* ![lr_rf_comparison.png](visualizations\lr_rf_comparison.png)
-* ![metrics_comparison.png](visualizations\metrics_comparison.png)
-* ![outliers_analysis.png](visualizations\outliers_analysis.png)
-* ![rf_predictions.png](visualizations\rf_predictions.png)
-* ![rf_predictions_test.png](visualizations\rf_predictions_test.png)
-* ![rolling_5y_trend.png](visualizations\rolling_5y_trend.png)
-* ![seasonal_decomposition.png](visualizations\seasonal_decomposition.png)
+* ![acf_pacf_delta_depth_m.png](visualizations/acf_pacf_delta_depth_m.png)
+* ![boxplot_by_month.png](visualizations/boxplot_by_month.png)
+* ![climate_data_nebraska.png](visualizations/climate_data_nebraska.png)
+* ![correlation_heatmap.png](visualizations/correlation_heatmap.png)
+* ![correlation_heatmap_all.png](visualizations/correlation_heatmap_all.png)
+* ![correlation_heatmap_final.png](visualizations/correlation_heatmap_final.png)
+* ![distribution_analysis.png](visualizations/distribution_analysis.png)
+* ![freeze_depth_nebraska.png](visualizations/freeze_depth_nebraska.png)
+* ![groundwater_level_nebraska.png](visualizations/groundwater_level_nebraska.png)
+* ![lr_rf_comparison.png](visualizations/lr_rf_comparison.png)
+* ![metrics_comparison.png](visualizations/metrics_comparison.png)
+* ![outliers_analysis.png](visualizations/outliers_analysis.png)
+* ![rf_predictions.png](visualizations/rf_predictions.png)
+* ![rf_predictions_test.png](visualizations/rf_predictions_test.png)
+* ![rolling_5y_trend.png](visualizations/rolling_5y_trend.png)
+* ![seasonal_decomposition.png](visualizations/seasonal_decomposition.png)
 
 
 
