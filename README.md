@@ -127,10 +127,13 @@ Zhu, Guofeng; Huang, Enwei (2025), “Quantifying the Role of Winter Freezing in
 
 **Файлы:** 
 
-[404618098504401_Nebraska.txt] [project_FINAL](data/404618098504401_Nebraska.txt) 
-[era5_precip_combined_Nebraska.nc] [project_FINAL](data/era5_precip_combined_Nebraska.nc)
-[era5_temp_combined_Nebraska.nc] [project_FINAL](data/era5_temp_combined_Nebraska.nc)
-[404618098504401_well_freeze_df.csv] [project_FINAL](data/404618098504401_well_freeze_df.csv)
+[404618098504401_Nebraska.txt](data/404618098504401_Nebraska.txt)
+
+[era5_precip_combined_Nebraska.nc](data/era5_precip_combined_Nebraska.nc)
+
+[era5_temp_combined_Nebraska.nc](data/era5_temp_combined_Nebraska.nc)
+
+[404618098504401_well_freeze_df.csv](data/404618098504401_well_freeze_df.csv)
 
 
 **Примечание:** Для работы с проектом скачайте файлы и поместите их в корневую папку проекта.
