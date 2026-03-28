@@ -91,8 +91,9 @@ Public Domain
 
 **Источник данных**
 USGS location identification number:
-* 404618098504401 (9N 14W 1DC 1 GIBBON);
-* 340535117573501 (001S010W07R002S).
+
+* 404618098504401 (9N 14W 1DC 1 GIBBON).
+
 Courtesy of the U.S. Geological Survey (https://www.usgs.gov/)
 
 #### Copernicus Climate Change Service
